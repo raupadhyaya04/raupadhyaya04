@@ -1,3 +1,9 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
+
 Yo yo yo how are we?
 My name is Raj, and I am a Computer Science and Economics student at Trinity College Dublin, looking for careers in Enterprise and Quantitative Finance
 
