@@ -3,15 +3,11 @@
   <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+My+name+is+Raj/>
+</h1>
 
-Yo yo yo how are we?
-My name is Raj, and I am a Computer Science and Economics student at Trinity College Dublin, looking for careers in Enterprise and Quantitative Finance
-
-Interested in working in London/New York/Palo Alto.
-
-Always looking for something new, feel free to reach out via my socials (linked on the side)!
-
-My interests are not fixed so please do reach out to me on any topic.
+### A Computer Science and Economics Student passionate about Quantitative Finance and Enterprise
 
 <div align="center">
   <a href="upadhyra@tcd.ie">
