@@ -4,6 +4,7 @@ My name is Raj, and I am a Computer Science and Economics student at Trinity Col
 Interested in working in London/New York/Palo Alto.
 
 Always looking for something new, feel free to reach out via my socials (linked on the side)!
+
 My interests are not fixed so please do reach out to me on any topic.
 
 <!--
