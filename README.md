@@ -13,6 +13,15 @@ Always looking for something new, feel free to reach out via my socials (linked 
 
 My interests are not fixed so please do reach out to me on any topic.
 
+<div align="center">
+  <a href="upadhyra@tcd.ie">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/raupadhyaya04" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <!--
 **raupadhyaya04/raupadhyaya04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
