@@ -20,7 +20,7 @@
 
 <hr>
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages
 
 <br>
 
