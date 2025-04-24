@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,c++" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,matlab" />
 </p>
 
 <hr>
