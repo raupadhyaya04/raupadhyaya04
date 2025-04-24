@@ -18,6 +18,18 @@
   </a>
 </div>
 
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,c++" />
+</p>
+
+<hr>
+
 <!--
 **raupadhyaya04/raupadhyaya04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
