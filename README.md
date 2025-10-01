@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,rust,r,matlab" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,rust,r,matlab, stata" /><br>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
