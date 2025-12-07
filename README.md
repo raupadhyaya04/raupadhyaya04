@@ -17,16 +17,6 @@
 
 <hr>
 
-## ⚡️ Cool facts
-
-<br>
-
-<div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=raupadhyaya04&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="raupadhyaya04's Most Used Languages" />
-</div>
-
-<hr>
-
 ## 🐍 My Contributions
 
 <div align="center">
