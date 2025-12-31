@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,haskell" /><br>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,ts" />
 </p>
 
 <hr>
